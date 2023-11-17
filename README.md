@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felix-leyva, Industrial Engineer with experience in solar energy, solar pumps, automation technology and technical sales
-- 👀 I’m interested in Mobile Apps development which can improve sales, processes and renewable energy implementation
-- 🌱 I’m currently learning Flutter, Android Framework, Jetpack Compose, network for IoT
+- 👋 Hi, I’m @felix-leyva, Software Engineer, Industrial Engineer with experience in solar energy, solar pumps, automation technology and technical sales
+- 👀 I’m interested in Mobile Apps development and their build tools.
+- 🌱 I’m currently learning Kotlin Multiplatform, Flutter & Gradle
 - 💞️ I’m looking to collaborate on software projects focusing in improvement of 
       -sales processes and
       -manufacturing organizational processes for small and medium companies which cannot implement commercial ERP
